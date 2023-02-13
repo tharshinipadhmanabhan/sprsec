@@ -1,0 +1,12 @@
+com\kgisl\sprsec\service\UserServiceImp.class
+com\kgisl\sprsec\config\CustomLoginSuccessHandler.class
+com\kgisl\sprsec\model\User.class
+com\kgisl\sprsec\service\UserService.class
+com\kgisl\sprsec\controller\UserController.class
+com\kgisl\sprsec\SprsecApplication.class
+com\kgisl\sprsec\config\WebSecurityConfig.class
+com\kgisl\sprsec\repository\UserRepository.class
+com\kgisl\sprsec\controller\AdminController.class
+com\kgisl\sprsec\model\Role.class
+com\kgisl\sprsec\config\WebMvcConfig.class
+com\kgisl\sprsec\controller\AuthController.class
